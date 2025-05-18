@@ -1,0 +1,11 @@
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\bin\Debug\net8.0\EgyEagles.Shared.deps.json
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\bin\Debug\net8.0\EgyEagles.Shared.dll
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\bin\Debug\net8.0\EgyEagles.Shared.pdb
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\EgyEagles.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\EgyEagles.Shared.AssemblyInfoInputs.cache
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\EgyEagles.Shared.AssemblyInfo.cs
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\EgyEagles.Shared.csproj.CoreCompileInputs.cache
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\EgyEagles.Shared.dll
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\refint\EgyEagles.Shared.dll
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\EgyEagles.Shared.pdb
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.Shared\obj\Debug\net8.0\ref\EgyEagles.Shared.dll

@@ -1,0 +1,35 @@
+﻿@model List<EgyEagles.MVC.Models.VehicleViewModel>
+
+@{
+    ViewBag.Title = "Vehicles";
+}
+
+<h2>Vehicles List</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Create" asp-route-companyId="@Model.FirstOrDefault()?.CompanyId">+ Add Vehicle</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.Name</td>
+                <td>@vehicle.Latitude</td>
+                <td>@vehicle.Longitude</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@vehicle.Id" class="btn btn-sm btn-warning">
+                        Update
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

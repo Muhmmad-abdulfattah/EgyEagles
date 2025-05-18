@@ -1,0 +1,18 @@
+﻿@model EgyEagles.MVC.Models.CreateCompanyViewModel
+
+@{
+    ViewBag.Title = "Create Company";
+}
+
+<h2>Create New Company</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Company Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,6 @@
+@EgyEagles.API_HostAddress = http://localhost:5262
+
+GET {{EgyEagles.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

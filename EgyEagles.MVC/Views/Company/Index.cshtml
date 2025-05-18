@@ -1,0 +1,27 @@
+﻿@model List<CompanyViewModel>
+@{
+    ViewBag.Title = "Companies";
+}
+
+<h2>Company List</h2>
+<p>Role: @ViewBag.Role</p>
+@if (ViewBag.Role == "SuperAdmin")
+{
+    <a href="/Company/Create" class="btn btn-primary mb-3">+ Add Company</a>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var company in Model)
+        {
+            <tr>
+                <td>@company.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

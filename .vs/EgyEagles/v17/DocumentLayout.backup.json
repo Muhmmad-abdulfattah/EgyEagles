@@ -1,0 +1,669 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MVC\\EgyEagles\\EgyEagles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|solutionrelative:egyeagles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|solutionrelative:egyeagles.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.api\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|solutionrelative:egyeagles.api\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.bll\\sevices\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|solutionrelative:egyeagles.bll\\sevices\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\vehicle\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\vehicle\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\controllers\\vehiclecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\controllers\\vehiclecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\services\\implementations\\vehicleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\services\\implementations\\vehicleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\services\\ivehicleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\services\\ivehicleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\updatevehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\updatevehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16ED29B-8C9B-47C2-986C-8D38DAF09550}|EgyEagles.Shared\\EgyEagles.Shared.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.shared\\dtos\\companies\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16ED29B-8C9B-47C2-986C-8D38DAF09550}|EgyEagles.Shared\\EgyEagles.Shared.csproj|solutionrelative:egyeagles.shared\\dtos\\companies\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\services\\implementations\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\services\\implementations\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.bll\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|solutionrelative:egyeagles.bll\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|solutionrelative:egyeagles.bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7143C0C-FC79-432B-94C9-6AB74CDAC8C1}|EgyEagles.Domain\\EgyEagles.Domain.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7143C0C-FC79-432B-94C9-6AB74CDAC8C1}|EgyEagles.Domain\\EgyEagles.Domain.csproj|solutionrelative:egyeagles.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2398B2EE-9011-4920-BA09-538CC326B2D5}|EgyEagles.DAL\\EgyEagles.DAL.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.dal\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2398B2EE-9011-4920-BA09-538CC326B2D5}|EgyEagles.DAL\\EgyEagles.DAL.csproj|solutionrelative:egyeagles.dal\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C87772-4EE4-4EA6-8E9F-439FEF45D2C0}|EgyEagles.API\\EgyEagles.API.csproj|solutionrelative:egyeagles.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.bll\\sevices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|solutionrelative:egyeagles.bll\\sevices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\tokenresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\tokenresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\createcompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\createcompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\companyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\companyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.bll\\sevices\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B3DCAD-B58D-4AF8-AB5C-A2D902B046FD}|EgyEagles.BLL\\EgyEagles.BLL.csproj|solutionrelative:egyeagles.bll\\sevices\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\views\\vehicle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\views\\vehicle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\vehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\vehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|e:\\mvc\\egyeagles\\egyeagles\\egyeagles.mvc\\models\\createvehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5405DFD7-D4E1-4EDC-8C7D-5921D21D7244}|EgyEagles.MVC\\EgyEagles.MVC.csproj|solutionrelative:egyeagles.mvc\\models\\createvehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "EgyEagles.API\\Controllers\\VehicleController.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "EgyEagles.API\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowFIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:46:58.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateVehicleViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\UpdateVehicleViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\UpdateVehicleViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\UpdateVehicleViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\UpdateVehicleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:45:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateVehicleDto.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.Shared\\DTOs\\Companies\\UpdateVehicleDto.cs",
+              "RelativeDocumentMoniker": "EgyEagles.Shared\\DTOs\\Companies\\UpdateVehicleDto.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.Shared\\DTOs\\Companies\\UpdateVehicleDto.cs",
+              "RelativeToolTip": "EgyEagles.Shared\\DTOs\\Companies\\UpdateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:44:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVehicleAppService.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Services\\IVehicleAppService.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Services\\IVehicleAppService.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Services\\IVehicleAppService.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Services\\IVehicleAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:03:51.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Vehicle\\Index.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\Vehicle\\Index.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Vehicle\\Index.cshtml*",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\Vehicle\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T07:46:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\SeedData.cs",
+              "RelativeDocumentMoniker": "EgyEagles.API\\SeedData.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\SeedData.cs",
+              "RelativeToolTip": "EgyEagles.API\\SeedData.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:48:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\Program.cs",
+              "RelativeDocumentMoniker": "EgyEagles.API\\Program.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\Program.cs",
+              "RelativeToolTip": "EgyEagles.API\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:48:35.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Vehicle\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\Vehicle\\Edit.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Vehicle\\Edit.cshtml",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\Vehicle\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T11:46:40.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleAppService.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Services\\Implementations\\VehicleAppService.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Services\\Implementations\\VehicleAppService.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Services\\Implementations\\VehicleAppService.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Services\\Implementations\\VehicleAppService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:03:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:18:30.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Sevices\\VehicleService.cs",
+              "RelativeDocumentMoniker": "EgyEagles.BLL\\Sevices\\VehicleService.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Sevices\\VehicleService.cs",
+              "RelativeToolTip": "EgyEagles.BLL\\Sevices\\VehicleService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:00:45.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserAppService.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Services\\Implementations\\UserAppService.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Services\\Implementations\\UserAppService.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Services\\Implementations\\UserAppService.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Services\\Implementations\\UserAppService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:32:59.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleController .cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\VehicleController .cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Controllers\\VehicleController .cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\VehicleController .cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Controllers\\VehicleController .cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:08:42.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:34:59.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Program.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Program.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:58:28.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T11:16:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Controllers\\CompanyController.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:58:31.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\User\\Create.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T10:23:03.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T10:22:48.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:29:12.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T10:25:07.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\CreateUserViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CreateUserViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:32:34.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "EgyEagles.BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "EgyEagles.BLL\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:39:13.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EgyEagles.API\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EgyEagles.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:47:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.DAL\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "EgyEagles.DAL\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.DAL\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "EgyEagles.DAL\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:09:50.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "EgyEagles.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeToolTip": "EgyEagles.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:09:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "EgyEagles.BLL\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "EgyEagles.BLL\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:58:08.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Sevices\\UserServices.cs",
+              "RelativeDocumentMoniker": "EgyEagles.BLL\\Sevices\\UserServices.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Sevices\\UserServices.cs",
+              "RelativeToolTip": "EgyEagles.BLL\\Sevices\\UserServices.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:38:02.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TokenResponseModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\TokenResponseModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\TokenResponseModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\TokenResponseModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\TokenResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:43:33.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\Company\\Index.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\Company\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T09:26:20.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CompanyViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CompanyViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\CompanyViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CompanyViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\CompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:32:32.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateCompanyViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CreateCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\CreateCompanyViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CreateCompanyViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\CreateCompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:30:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Sevices\\CompanyService.cs",
+              "RelativeDocumentMoniker": "EgyEagles.BLL\\Sevices\\CompanyService.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.BLL\\Sevices\\CompanyService.cs",
+              "RelativeToolTip": "EgyEagles.BLL\\Sevices\\CompanyService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:00:42.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:32:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateVehicleViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CreateVehicleViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\CreateVehicleViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\CreateVehicleViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\CreateVehicleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:32:35.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Vehicle\\Create.cshtml",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Views\\Vehicle\\Create.cshtml",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Views\\Vehicle\\Create.cshtml",
+              "RelativeToolTip": "EgyEagles.MVC\\Views\\Vehicle\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T07:46:59.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\UserViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:32:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VehicleViewModel.cs",
+              "DocumentMoniker": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\VehicleViewModel.cs",
+              "RelativeDocumentMoniker": "EgyEagles.MVC\\Models\\VehicleViewModel.cs",
+              "ToolTip": "E:\\MVC\\EgyEagles\\EgyEagles\\EgyEagles.MVC\\Models\\VehicleViewModel.cs",
+              "RelativeToolTip": "EgyEagles.MVC\\Models\\VehicleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:29:14.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

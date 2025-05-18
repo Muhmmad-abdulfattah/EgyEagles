@@ -1,0 +1,15 @@
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\bin\Debug\net8.0\EgyEagles.DAL.deps.json
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\bin\Debug\net8.0\EgyEagles.DAL.dll
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\bin\Debug\net8.0\EgyEagles.DAL.pdb
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\bin\Debug\net8.0\EgyEagles.Domain.dll
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\bin\Debug\net8.0\EgyEagles.Domain.pdb
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagles.DAL.csproj.AssemblyReference.cache
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagles.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagles.DAL.AssemblyInfoInputs.cache
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagles.DAL.AssemblyInfo.cs
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagles.DAL.csproj.CoreCompileInputs.cache
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagle.893ABE7A.Up2Date
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagles.DAL.dll
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\refint\EgyEagles.DAL.dll
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\EgyEagles.DAL.pdb
+E:\MVC\EgyEagles\EgyEagles\EgyEagles.DAL\obj\Debug\net8.0\ref\EgyEagles.DAL.dll

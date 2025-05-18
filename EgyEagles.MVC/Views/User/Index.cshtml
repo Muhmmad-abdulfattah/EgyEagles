@@ -1,0 +1,43 @@
+﻿@model List<UserViewModel>
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>Users</h2>
+
+<a class="btn btn-primary mb-3" href="/User/Create">+ Add User</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Permissions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>
+                    @if (user.Permissions != null && user.Permissions.Any())
+                    {
+                        <ul>
+                            @foreach (var perm in user.Permissions)
+                            {
+                                <li>@perm</li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <span>No permissions</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

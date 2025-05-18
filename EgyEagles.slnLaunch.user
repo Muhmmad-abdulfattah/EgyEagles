@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EgyEagles.API\\EgyEagles.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EgyEagles.MVC\\EgyEagles.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
